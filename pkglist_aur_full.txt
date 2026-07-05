@@ -1,0 +1,16 @@
+accounts-qml-module
+appimagelauncher
+appimagelauncher-debug
+google-chrome
+neovim-git
+neovim-git-debug
+storageexplorer
+storageexplorer-debug
+ventoy-bin
+ventoy-bin-debug
+visual-studio-code-bin
+webkit2gtk
+whatsapp-for-linux-git
+whatsapp-for-linux-git-debug
+yay
+yay-debug

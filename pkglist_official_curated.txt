@@ -1,0 +1,13 @@
+base
+base-devel
+discord
+docker
+dolphin
+fastfetch
+firefox
+git
+github-cli
+konsole
+npm
+yay
+zsh
